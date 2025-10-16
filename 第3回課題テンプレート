@@ -1,0 +1,50 @@
+# 第3回振り返りレポート
+
+## 1. GitHubアカウントとURL
+
+アカウント名: 
+Account URL: 
+
+## 2. グループのOrganizationのURL
+
+Organization URL: 
+
+## 3. 作成した日記リポジトリのコミットログ
+
+日記リポジトリのURL: 
+
+<pre>
+
+</pre>
+
+
+## ４. Git, GitHubに関する調査
+### 4-1. Gitを始めとしたバージョン管理システムを利用することによるメリットはなにか
+
+
+### 4-2. Gitにおけるキーワード「clone」「commit」「push」「branch」「fetch」「pull」「merge」「rebase」についてそれぞれ何をするものか (他者に説明できるよう、わかりやすく簡潔な文章で表すこと)
+#### 「clone」
+
+
+#### 「commit」
+
+
+#### 「push」
+
+
+#### 「branch」
+
+
+#### 「fetch」
+
+
+#### 「pull」
+
+
+#### 「merge」
+
+
+#### 「rebase」
+
+
+### 4-3. プロジェクト進行に、Pull Requestを用いたGitHub Flowを採用することで、解決できるチーム開発での問題はなにか (実際にGitHub Flowで作業する手順も説明できる範囲でする)
