@@ -9,4 +9,4 @@ class UnoDiary(AbstractDiary):
         return "授業で疲れた"
     
     def get_author(self):
-        return "Sample"
+        return "宇野駿汰"
